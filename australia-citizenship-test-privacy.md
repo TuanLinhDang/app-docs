@@ -123,4 +123,4 @@
 
  ## Contact
 
- If you have any questions about this privacy policy, please contact us at linhaustralia92@gmail.com.
+ If you have any questions about this privacy policy, please contact us at dangtuanlinh1992@gmail.com.
