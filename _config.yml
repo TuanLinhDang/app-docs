@@ -1,10 +1,13 @@
-title: Australia Citizenship Test                                                                                                                                                                                                             
-description: Help you pass the Australia Citizenship Test faster                                                                                                                                                                                                  
-theme: minima              # or: remote_theme: pages-themes/cayman                                                                                                                                                                 
-baseurl: ""                # subpath, e.g. "/repo-name" for project sites                                                                                                                                                          
-url: "https://tuanlinhdang.github.io/app-docs/"                                                                                                                                                                                                  
-markdown: kramdown                                                                                                                                                                                                                 
-plugins:                                                                                                                                                                                                                           
-  - jekyll-feed                                                                                                                                                                                                                    
-  - jekyll-seo-tag                              
-  - jekyll-sitemap
+# Site identity
+title: Australia Citizenship Test Policy
+description: Help you pass the test faster
+
+# Markdown engine (Kramdown is the GitHub Pages default)
+markdown: kramdown
+
+# Theme selection (Essential for styling Markdown)
+theme: jekyll-theme-minimal
+
+# Navigation settings
+baseurl: "" # Set to "/repository-name" if your site is not at the root domain
+url: "https://tuanlinhdang.github.io/app-docs"
