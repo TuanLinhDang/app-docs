@@ -1,7 +1,7 @@
 ---
  title: "Privacy Policy"
  layout: page
- permalink: /privacy/
+ permalink: /australia-citizenship-test-privacy/
  ---
 
  Last updated: 29 April 2026
