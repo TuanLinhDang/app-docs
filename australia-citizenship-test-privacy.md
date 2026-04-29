@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Australia Citizenship Test Privacy Policy
 ---
 
@@ -7,7 +7,7 @@ Last updated: 29 April 2026
 
 ## Overview
 
-Australian Citizenship Test Practice ("the App") is designed to help you prepare for the Australian Citizenship Test. Your privacy is important to us. This policy explains how the App handles your data.
+Australian Citizenship Test is designed to help you prepare for the Australian Citizenship Test. Your privacy is important to us. This policy explains how the App handles your data.
 
 ## Data Collection
 
