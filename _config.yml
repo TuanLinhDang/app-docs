@@ -1,1 +1,25 @@
-remote_theme: mmistakes/jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
+ title: "Australian Citizenship Test Practice"
+ description: "Privacy policy and legal documents."
+ url: "https://<your-github-username>.github.io"
+ baseurl: "/<your-pages-repo-name>"
+
+ # Theme settings
+ skin: default
+ locale: en
+
+ plugins:
+   - jekyll-feed
+   - jekyll-seo-tag
+   - jekyll-sitemap
+   - jekyll-include-cache
+
+ # Default front matter for pages so we don't repeat ourselves.
+ defaults:
+   - scope:
+       path: ""
+       type: "pages"
+     values:
+       layout: page
+       read_time: false
+       show_drafts: false
